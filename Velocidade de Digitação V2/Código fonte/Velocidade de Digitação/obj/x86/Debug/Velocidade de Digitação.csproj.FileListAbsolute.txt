@@ -1,0 +1,11 @@
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\obj\x86\Debug\Velocidade de Digitação.csproj.ResolveComReference.cache
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\obj\x86\Debug\Interop.WMPLib.dll
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\bin\Debug\Velocidade de Digitação.exe
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\bin\Debug\Velocidade de Digitação.pdb
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\obj\x86\Debug\Velocidade de Digitação.exe
+E:\Informatica\Desenvolvimento\C#\Velocidade de Digitação\Velocidade de Digitação\obj\x86\Debug\Velocidade de Digitação.pdb
